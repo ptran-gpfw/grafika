@@ -147,6 +147,7 @@
     <string name="title_activity_multi_surface_test">Multi-Surface Test</string>
     <string name="title_activity_codec_open">Codec Open Activity</string>
     <string name="title_activity_texture_upload">Texture upload speed test</string>
+    <string name="title_activity_texture_image">TextureView to draw image</string>
     <string name="title_color_bar">RGB color bars</string>
     <string name="title_scheduled_swap">Scheduled swap</string>
     <string name="title_texture_from_camera">Texture from camera</string>
